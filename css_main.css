@@ -1,0 +1,25 @@
+img {
+    width: 100%;
+}
+
+@media all and (orientation:landscape) {
+    img {
+        width: 45%;
+    }
+}
+
+body {
+    margin-left: 1vw;
+}
+
+ol ol {
+    list-style-type: lower-alpha;
+}
+
+.class_chapter {
+    background-color: #FF9;
+}
+
+.class_contacts {
+    background-color: #CFC;
+}
